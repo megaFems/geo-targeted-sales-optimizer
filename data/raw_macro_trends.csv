@@ -1,0 +1,51 @@
+region_id,country,city,gdp_growth_rate,inflation_rate,currency_volatility_index
+REG_001,USA,Metroplex 1,0.01,0.0779,0.12
+REG_002,DEU,Industrial Hub 2,0.0561,0.0643,0.42
+REG_003,JPN,Tech Capital 3,0.0386,0.0758,0.26
+REG_004,BRA,Coastal Metropolis 4,0.0279,0.0726,0.35
+REG_005,GBR,Financial Core 5,-0.0075,0.0519,0.55
+REG_006,AUS,Harbor City 6,-0.0075,0.0745,0.22
+REG_007,IND,Innovation Center 7,-0.0154,0.0162,0.31
+REG_008,ZAF,Commercial Gateway 8,0.0493,0.0237,0.48
+REG_009,CAN,Northern Port 9,0.0281,0.0132,0.21
+REG_010,FRA,Cultural Hub 10,0.0366,0.0328,0.14
+REG_011,USA,Cooling Mega-City (Trap 10),-0.0412,0.2172,0.85
+REG_012,DEU,Industrial Hub 12,0.0576,0.029,0.18
+REG_013,JPN,Tech Capital 13,0.0466,0.068,0.56
+REG_014,BRA,Coastal Metropolis 14,-0.003,0.035,0.5
+REG_015,GBR,Financial Core 15,-0.0055,0.0297,0.42
+REG_016,AUS,Emerging Tech Hub (Gem 15),0.0532,0.0204,0.54
+REG_017,IND,Innovation Center 17,0.0043,0.0199,0.5
+REG_018,ZAF,Commercial Gateway 18,0.022,0.0662,0.19
+REG_019,CAN,Northern Port 19,0.0146,0.0152,0.55
+REG_020,FRA,Cultural Hub 20,0.0033,0.0791,0.37
+REG_021,USA,Metroplex 21,0.0289,0.0641,0.5
+REG_022,DEU,Industrial Hub 22,-0.0088,0.0239,0.55
+REG_023,JPN,Tech Capital 23,0.0034,0.0104,0.26
+REG_024,BRA,Coastal Metropolis 24,0.0093,0.0671,0.16
+REG_025,GBR,Financial Core 25,0.0165,0.0595,0.21
+REG_026,AUS,Harbor City 26,0.0428,0.061,0.31
+REG_027,IND,Innovation Center 27,-0.004,0.064,0.51
+REG_028,ZAF,Commercial Gateway 28,0.0211,0.0152,0.53
+REG_029,CAN,Northern Port 29,0.0274,0.0351,0.1
+REG_030,FRA,Cultural Hub 30,-0.0163,0.0181,0.36
+REG_031,USA,Metroplex 31,0.0286,0.0704,0.31
+REG_032,DEU,Industrial Hub 32,-0.0064,0.0536,0.21
+REG_033,JPN,Tech Capital 33,-0.0148,0.0332,0.16
+REG_034,BRA,Coastal Metropolis 34,0.0559,0.0144,0.27
+REG_035,GBR,Financial Core 35,0.0573,0.0318,0.57
+REG_036,AUS,Cooling Mega-City (Trap 35),-0.0304,0.2339,0.93
+REG_037,IND,Innovation Center 37,0.0044,0.0611,0.36
+REG_038,ZAF,Commercial Gateway 38,-0.0122,0.0546,0.45
+REG_039,CAN,Northern Port 39,0.0347,0.0721,0.28
+REG_040,FRA,Cultural Hub 40,0.0152,0.0431,0.59
+REG_041,USA,Metroplex 41,-0.0102,0.0184,0.58
+REG_042,DEU,Industrial Hub 42,0.0196,0.0599,0.23
+REG_043,JPN,Emerging Tech Hub (Gem 42),0.0477,0.0295,0.35
+REG_044,BRA,Coastal Metropolis 44,0.0527,0.0493,0.25
+REG_045,GBR,Financial Core 45,0.0007,0.064,0.24
+REG_046,AUS,Harbor City 46,0.033,0.0446,0.12
+REG_047,IND,Innovation Center 47,0.0049,0.0466,0.4
+REG_048,ZAF,Commercial Gateway 48,0.0216,0.0399,0.35
+REG_049,CAN,Northern Port 49,0.0237,0.0118,0.13
+REG_050,FRA,Cultural Hub 50,-0.0052,0.0176,0.24
